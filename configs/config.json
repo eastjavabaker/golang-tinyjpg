@@ -1,0 +1,7 @@
+{
+       "tinyjpg_url": "https://api.tinify.com/shrink",
+       "tinyjpg_user": "-- YOUR TINYPNG API KEY --",
+       "start_path":"/home/ubuntu/source",
+       "target_path":"/home/ubuntu/target"
+}
+
